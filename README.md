@@ -1,0 +1,2 @@
+# Android_SDL_Master
+在Android端利用ＮＤＫ技术开发SDL
